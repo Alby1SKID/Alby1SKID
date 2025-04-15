@@ -1,4 +1,4 @@
 - 👀 I’m interested in Ogfn
-- 🌱 I’m currently learning JavaScript and c#
+- 🌱 I’m currently learning JavaScript and TypeScript
 - 📫 You can reach me on my discord (Albykick2)
 - 😄 Pronouns: He/Him
